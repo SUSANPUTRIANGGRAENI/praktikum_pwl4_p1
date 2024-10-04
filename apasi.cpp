@@ -2,5 +2,7 @@
 using namespace std;
 
 int main(){
-    cout
+    cout << "bebas" << endl;
+    cout << "hai" << endl;
+    return 0;
 }
